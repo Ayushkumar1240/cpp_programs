@@ -14,8 +14,6 @@ int main(){
     // pairlist_t pairlist;
     text_t firstName="Ayush";
     std::cout<<firstName<<'\n';
-
-
     number_t age=22;
     std::cout<<age;
 
