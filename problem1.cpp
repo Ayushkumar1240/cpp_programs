@@ -8,7 +8,7 @@ int main(){
 
     std::cout<<"Enter side A: ";
     std::cin>>a;
-
+ 
 
     std::cout<<"Enter side B: ";
     std::cin>>b;
